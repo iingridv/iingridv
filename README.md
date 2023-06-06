@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas Vindas ao meu Perfil
 
-<!--
-**iingridv/iingridv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Ingrid 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou Estudando na [Alura](https://www.alura.com.br)
+- Estou me Desenvolvendo na Linguagem JavaScript
+- Utilizo Esse Espaço para Minha Organização e Compartilhamento dos meus Projetos Desenvolvidos
+
+### Você Pode Entrar em Contato Comigo 
+
+ingridcruz2610@gmail.com
+
+![](https://media.tenor.com/qjer2mid-F0AAAAM/make-face-darwin-watterson.gif)
